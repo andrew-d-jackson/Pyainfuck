@@ -1,0 +1,5 @@
+A simple brainfuck intepreter written in python
+
+how to use:
+from brainfuck import interpret
+interpret(command, input)
